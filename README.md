@@ -44,12 +44,11 @@ authorized OSINT research, security auditing, and education only.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/UG-ALOK/Phone-Number-info.git
+git clone https://github.com/Curlgit/Phone-Number-info-v2.git
 ```
 ```bash
-cd Phone-Number-info
+cd Phone-Number-info-v2
 ```
-
 ### 2. Run the installer
 
 **Termux:**
